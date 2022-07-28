@@ -1,5 +1,15 @@
 # Waveform generator task
-This is a recruitment tast build with the laravel framework.
+This is a recruitment task build with the laravel framework.
+The files for the task are located in the following directories:
+```
+app/Services
+app/Http/Controllers
+app/Http/Requests
+routes/api.php
+storage/app/testAssetss
+tests/
+```
+
 In order to setup the application the following must be done:
 
 ## Pull the repository and set it up
